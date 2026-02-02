@@ -19,6 +19,9 @@
 *   **中止專案**：`milk-monetization-plan`, `intelligence`, `milk-ai-trends-tracker`。
 *   **動作**：在 GitHub 專案 README 中加入停止聲明，移除本地目錄，並在 `MEMORY.md` 紀錄。
 
+### 3. 視覺化架構紀錄
+*   **動作**：根據 Ted 指示，為 `enterprise-ai-knowledge-integration` 與 `openclaw-enterprise-security-insuretech` 繪製 Mermaid 架構圖並更新至 README。
+
 ### 3. 技能與瀏覽器設定
 *   **技能安裝**：安裝了 `gemini`, `github`, `summarize`, `clawdhub`。
 *   **瀏覽器連線**：配置 `attachOnly` 模式連動 `9222` 埠。
