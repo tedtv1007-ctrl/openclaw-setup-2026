@@ -29,6 +29,7 @@
 1.  **企業內部 AI 知識整合平台 (`enterprise-ai-knowledge-integration`)**：研究 Wiki.js + Ollama + MCP 的整合架構。
 2.  **OpenClaw 企業安全與產險應用 (`openclaw-enterprise-security-insuretech`)**：專注於 PII 保護與理賠自動化。
 3.  **OpenClaw Setup 2026**：即本文件，作為每日進度與技術細節的唯一日誌。
+4.  **[📜 使用者重要指令紀錄](USER_COMMANDS.md)**：紀錄 Ted 下達的行為指導與風格偏好。
 
 ---
 *由 Milk 自動維護，紀錄技術演進與專案轉向。*
